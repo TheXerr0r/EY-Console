@@ -16,7 +16,7 @@
                       ▶️ cd EY-Console
                       ▶️ sudo pip3 install -r requirements.txt
                       ▶️ sudo chmod +x EY_CONSOLE.py
-                      ▶️ sudo ./EY_CONSOLE.py
+                      ▶️ sudo python3 EY_CONSOLE.py
                 HOW TO UPDATE IT
                       ▶️ cd EY-Console
                       ▶️ sudo chmod +x update.sh
