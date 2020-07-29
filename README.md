@@ -22,7 +22,7 @@
                       ▶️ sudo chmod +x update.sh
                       ▶️ sudo ./update.sh
                       
-                 <img src="https://camo.githubusercontent.com/2062c1f5d15e4d95d647b9d88efc9eef32dc3bf3/68747470733a2f2f696d6167652e6962622e636f2f6934455333552f62632e706e67">
+                 ![](https://camo.githubusercontent.com/2062c1f5d15e4d95d647b9d88efc9eef32dc3bf3/68747470733a2f2f696d6167652e6962622e636f2f6934455333552f62632e706e67)
                  
                  If You Want To See Our Private Tools, Please Send Your Donates To Montivate Us Publish Our Private Tool :)
                  BitCoin Address: 1NZtHATWTyzmb1PghFrvwDDmVUCfCLNQWm
