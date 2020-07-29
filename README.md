@@ -23,7 +23,7 @@
                       ▶️ sudo ./update.sh
                       
                       
-[![alt tag](https://image.ibb.co/i4ES3U/bc.png)]
+![alt tag](https://image.ibb.co/i4ES3U/bc.png)
                  
                  If You Want To See Our Private Tools, Please Send Your Donates To Montivate Us Publish Our Private Tool :)
                  BitCoin Address: 1NZtHATWTyzmb1PghFrvwDDmVUCfCLNQWm
