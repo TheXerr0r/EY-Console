@@ -12,7 +12,7 @@
           This Tool Is Programmed By Python3 And Any Linux And Windows And MacOSX Users Can Install It  :)
 
           HOW TO INSTALL THE TOOL
-                ▶️ sudo git clone https://github.com/ehs4nnn/EY-Console
+                ▶️ sudo git clone https://github.com/TheXerr0r/EY-Console
                 ▶️ cd EY-Console
                 ▶️ sudo pip3 install -r requirements.txt
                 ▶️ sudo chmod +x EY_CONSOLE.py
@@ -25,7 +25,7 @@
 
 ![alt tag](https://image.ibb.co/i4ES3U/bc.png)
 
-![alt tag](https://raw.githubusercontent.com/ehs4nnn/EY-Console/master/BITCOIN%20QR.png)
+![alt tag](https://raw.githubusercontent.com/TheXerr0r/EY-Console/master/BITCOIN%20QR.png)
                  
  If You Want To See Our Private Tools, Please Send Your Donates To Montivate Us Publish Our Private Tool :)
  
